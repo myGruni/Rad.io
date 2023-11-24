@@ -30,7 +30,7 @@ Das Radio-Format bietet mehr Flexibilität und Nachhaltigkeit in der Planung von
 
 Es gibt natürlich viele Möglichkeiten den Stream technisch umzusetzen. Das hängt davon ab, welche Technik zur Verfügung steht und worauf ihr Bock habt. Folgend wird ein "Minimal Setup" dargestellt, dieses könnte theoretisch noch mit zusätzlicher Auststattung (Controller, extra Laptop, Mischpult etc.) umgebaut und ergänzt werden. 
 
-![minimal setup](/pics/minimal.jpg)
+![minimal](/pics/minimal.jpg)
 
 ### Mit diesem Setup müsste in den Mixxx-Einstellungen noch folgendes angepasst werden:
 
