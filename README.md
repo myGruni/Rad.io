@@ -44,7 +44,7 @@ Es gibt natürlich viele Möglichkeiten den Stream technisch umzusetzen. Das hä
 ### Equipment
 
 * 2 XLR-Kabel + 1 Backup
-* 1 PC (mit installierter DJ Software)
+* 1 PC (mit installierter DJ-Software)
 * 2 Funkmikros inklusive Empfänger
 * 1 Soundkarte oder Interface
 * 3-4 Kopfhörer
@@ -115,7 +115,7 @@ Mixx Software Tutorial: https://manual.mixxx.org/2.3/en/chapters/introduction
 
 - DI Boxen: wandeln ein unsynchrones Signal in ein synchrones Signal um - Rauschunterdrückung // Einstellung > Lift and Ground 
 - Soundkarte: Signalwandler von Digital nach Analog - verbessert die Übersetzungsqualität vom Stream 
-- Das Chinch Kabel sollte nicht länger als 2 Meter sein, weil sonst die Qualität leidet (fehlende Höhen)
+- Das Cinchkabel sollte nicht länger als 2 Meter sein, weil sonst die Qualität leidet (fehlende Höhen)
 
 
 ## So dann: Happy Streaming! 
