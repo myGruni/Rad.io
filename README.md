@@ -17,9 +17,9 @@ Hello and welcome! Die folgenden Zeilen illustrieren und erklären ein Beispiel-
 
 
 ## 1. About Arrr!
-Das Activist Road Radio versteht sich als Demokratieverstärker, das darauf abzielt, politische Gruppen in der Organisation von Protestaktionen zu unterstützen. Mit dem, auf einem Lastenrad installierten, minimalen Setup wird es möglich, Informationsinhalte und musikalische Begleitung bei Veranstaltungen zu übertragen. Teilnehmende können über ihre eigenen Mobilgeräte und tragbare Lautsprecher auf den Stream zugreifen, was das Programm für alle live und direkt erlebbar macht. 
+Das **Activist Road Radio** versteht sich als Demokratieverstärker, das darauf abzielt, politische Gruppen in der Organisation von Protestaktionen zu unterstützen. Mit dem auf einem Lastenrad installierten minimalen Setup wird es möglich, Informationsinhalte und musikalische Begleitung bei Veranstaltungen zu übertragen. **Teilnehmende können über ihre eigenen Mobilgeräte auf den Stream zugreifen und über ihre eigenen tragbaren Lautsprecher abspielen**, was das Programm für alle live und direkt erlebbar macht. 
 
-Das Radio-Format bietet mehr Flexibilität und Nachhaltigkeit in der Planung von Aktionen und ermöglicht die schwerfälligen Lautsprecherwagen durch ein umweltfreundliches Lastenrad zu zu ersetzen. Wir zeigen euch einen emanzipatorischen Technikeinsatz vor, um den aktuellen multiplen Krisen, wie etwa der Klimakatastrophe mit Selbstorganisation und Demokratie von unten etwas entgegen zu setzen.
+Das Radio-Format bietet große Flexibilität und Nachhaltigkeit in der Planung von Aktionen und ermöglicht es, die schwerfälligen Lautsprecherwagen durch umweltfreundliche Lastenräder zu ersetzen. Wir stellen euch hier einen emanzipatorischen Technikeinsatz vor, um den aktuellen multiplen Krisen – wie etwa der Klimakatastrophe – mit Selbstorganisation und Demokratie von unten etwas entgegen zu setzen.
 
 
 ![radiobike2](/pics/climatear.jpg)
@@ -28,7 +28,7 @@ Das Radio-Format bietet mehr Flexibilität und Nachhaltigkeit in der Planung von
 
 ## 2. Beispiel Setup
 
-Es gibt natürlich viele Möglichkeiten den Stream technisch umzusetzen. Das hängt davon ab, welche Technik zur Verfügung steht und worauf ihr Bock habt. Folgend wird ein "Minimal Setup" dargestellt, dieses könnte theoretisch noch mit zusätzlicher Auststattung (Controller, extra Laptop, Mischpult etc.) umgebaut und ergänzt werden. 
+Es gibt natürlich viele Möglichkeiten den Stream technisch umzusetzen. Das hängt davon ab, welche Technik zur Verfügung steht und worauf ihr Bock habt. Folgend wird ein "Minimal Setup" dargestellt, dieses könnte theoretisch noch mit zusätzlicher Ausstattung (Controller, extra Laptop, Mischpult etc.) umgebaut und ergänzt werden. 
 
 ![minimal](/pics/minimal.jpg)
 
@@ -71,29 +71,29 @@ Zum Mischen eignet sich die kostenlose DJ Software Mixxx. Unten ist ein Tutorial
 
 **Mischen Aufgaben:**
 
-    * Fadeout-fadein von vorgegebener Playlist
+    * Fade-out/Fade-in von vorgegebener Playlist
     * Eingänge auf -10 db pegeln [j: am mixer]
     * Einspieler vorauswählen, starten
     * alles muten, was nicht laufen soll 
     * braucht Kopfhörer um das Signal zu checken
-    * Mikrophone mischen auf -20
+    * Mikrophone mischen auf -20 db
 
 
 ## 4. Programmgestaltung
 
-Es bietet sich an, sich vorher Gedanken zur Programmgestaltung zu machen und zu überlegen, was das Ziel der Übertragung ist. Soll das Radio den Lauti-Wagen ersetzen oder soll es nur begleiten als Broadcast nach außen? Es ist möglich, das gesamte Programm inhaltlich spontan zu gestalten oder es komplett durch zu planen. Davon hängt dann ab, ob Redebeiträge vorher angefragt/vorbereitet und ob Musikblocks im Voraus zusammengestellt werden müssten.
+Es bietet sich an, sich vorher Gedanken zur Programmgestaltung zu machen und zu überlegen, was das Ziel der Übertragung ist. Soll das Radio den Lauti-Wagen ersetzen oder soll es nur begleiten als Broadcast nach außen? Es ist möglich, das gesamte Programm inhaltlich spontan zu gestalten oder es komplett durchzuplanen. Davon hängt dann ab, ob Redebeiträge vorher angefragt/vorbereitet und ob Musikblocks im Voraus zusammengestellt werden müssten.
 
 
 ## 5. Good to know
 
 ### Nützliche Tipps:
 
-- **Wichtiger Sicherheitshinweis**: Wenn ihr euch dazu entschließen solltet einen LiveStrema zu senden, müsst ihr euch bewusst sein, dass alles von allen aufgezeichnent werden kann
+- **Wichtiger Sicherheitshinweis**: Wenn ihr euch dazu entschließen solltet, einen Livestream zu senden, müsst ihr euch bewusst sein, dass alles von allen aufgezeichnent werden kann
 - GEMA: ist in der Regel abgedeckt für den Radio Stream Host aber nicht für den Upload (dauerhafte Beteitstellung), die individuelle Weitergabe von Aufzeichnungen ist ok, da Recht auf Privatkopie
-- Demostrecke vorherabfahren und Netzabdeckung checken -> Kurze Ausfälle lassen sich kaum vermeiden, längere Ausfälle wären nervig. Macht es Sinn dann ein Arrr! anzubieten? Kann eine andere Strecke gewählt werden?
-- Für einen reibungslosen Ablauf bietet es es sich an eine Generelprobe mit allen beteiligten durchzuführen. Funktioniert die Tedchnik, Übergänge, ungeklärte Fragen zum Ablauf?
-- Es wäre auch eine Möglichkeit, statt Livebeiträge die voraufgezeichneten Redebeiträge der Redner_innen zu senden
-- Kommunikation mit Moderation  -> "wir sind bereit", "Kanal ist offen", "bitte weiterreden" etc
+- Demostrecke vorher abfahren und die Netzabdeckung checken -> kurze Ausfälle lassen sich kaum vermeiden, längere Ausfälle wären nervig. Macht es Sinn, dann ein Arrr! anzubieten? Kann eine andere Strecke gewählt werden?
+- Für einen reibungslosen Ablauf bietet es es sich an, eine Generalprobe mit allen Beteiligten durchzuführen. Funktioniert die Technik, Übergänge, gibt es ungeklärte Fragen zum Ablauf?
+- Es besteht auch die Möglichkeit, statt Livebeiträgen voraufgezeichnete Redebeiträge der Redner_innen zu senden
+- Kommunikation mit der Moderation  -> "wir sind bereit", "Kanal ist offen", "bitte weiterreden" etc.
 - Signal-Monitoring: am PC in der "Netzwerkanalyse" die Netzwerkverbindung beobachten, lässt sich auch gut bei Mixx visuell integrieren
 - Jingles: es bietet sich an 1-3 Jingles vorzubereiten, muss nicht, fetzt aber :)
 - Musikblocks: vorab zusammengestellte Musikblöcke (ca 10-15min) geben zwischendurch etwas Zeit für Pausen und erleichtern das Senden
@@ -113,9 +113,9 @@ Mixx Software Tutorial: https://manual.mixxx.org/2.3/en/chapters/introduction
 
 ## 6. Glossar
 
-- DI Boxen: wandeln ein unsynchrones Signal in ein synchrones Signal - Rauschunterdrückung // Einstellung > Lift and Ground 
-- Soundkarte: Signalwandler von digital in analog - Verbessert die ÜBersetzungsqualität vom Stream 
-- Chinch Kabel: sollte nicht länger als 2m sein, weil sonst die Qualität leidet
+- DI Boxen: wandeln ein unsynchrones Signal in ein synchrones Signal um - Rauschunterdrückung // Einstellung > Lift and Ground 
+- Soundkarte: Signalwandler von Digital nach Analog - verbessert die Übersetzungsqualität vom Stream 
+- Das Chinch Kabel sollte nicht länger als 2 Meter sein, weil sonst die Qualität leidet (fehlende Höhen)
 
 
 ## So dann: Happy Streaming! 
