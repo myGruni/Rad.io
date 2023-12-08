@@ -63,7 +63,7 @@ Es gibt natürlich viele Möglichkeiten den Stream technisch umzusetzen. Das hä
 
 ### Mischen 
 
-Zum Mischen eignet sich die kostenlose DJ Software Mixxx. Unten ist ein Tutorial dazu verlinkt.
+Zum Mischen eignet sich die kostenlose DJ-Software **Mixxx**. Unten ist ein Tutorial dazu verlinkt.
 
 ![mixx](/pics/mixxsoftware.png)
 
