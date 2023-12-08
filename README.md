@@ -1,4 +1,4 @@
-<h1> How to Arrr!</h1>
+<h1>How to Activist Road Radio – Arrr!</h1>
 
 Hello and welcome! Die folgenden Zeilen illustrieren und erklären ein Beispiel-Setup einer Live Audio-Streamtechnik zur mobilen Programmbegleitung von Protestaktionen und Fahrraddemos. [^1]
 
