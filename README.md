@@ -1,4 +1,4 @@
-<h1>How to Activist Road Radio – Arrr!</h1>
+<h1>How to Activist Rebel Road Radio – Arrr!</h1>
 
 Hello and welcome! Die folgenden Zeilen illustrieren und erklären ein Beispiel-Setup einer Live Audio-Streamtechnik zur mobilen Programmbegleitung von Protestaktionen und Fahrraddemos. [^1]
 
@@ -17,7 +17,7 @@ Hello and welcome! Die folgenden Zeilen illustrieren und erklären ein Beispiel-
 
 
 ## 1. About Arrr!
-Das **Activist Road Radio** versteht sich als Demokratieverstärker, das darauf abzielt, politische Gruppen in der Organisation von Protestaktionen zu unterstützen. Mit dem auf einem Lastenrad installierten minimalen Setup wird es möglich, Informationsinhalte und musikalische Begleitung bei Veranstaltungen zu übertragen. **Teilnehmende können über ihre eigenen Mobilgeräte via mobiler Internetverbindung auf den Stream zugreifen und über ihre eigenen tragbaren Lautsprecher abspielen**, was das Programm für alle live und direkt erlebbar macht. 
+Das **Activist Rebel Road Radio** versteht sich als Demokratieverstärker, das darauf abzielt, politische Gruppen in der Organisation von Protestaktionen zu unterstützen. Mit dem auf einem Lastenrad installierten minimalen Setup wird es möglich, Informationsinhalte und musikalische Begleitung bei Veranstaltungen zu übertragen. **Teilnehmende können über ihre eigenen Mobilgeräte via mobiler Internetverbindung auf den Stream zugreifen und über ihre eigenen tragbaren Lautsprecher abspielen**, was das Programm für alle live und direkt erlebbar macht. 
 
 Das Radio-Format bietet große Flexibilität und Nachhaltigkeit in der Planung von Aktionen und ermöglicht es, die schwerfälligen Lautsprecherwagen durch umweltfreundliche Lastenräder zu ersetzen. Wir stellen euch hier einen emanzipatorischen Technikeinsatz vor, um den aktuellen multiplen Krisen – wie etwa der Klimakatastrophe – mit Selbstorganisation und Demokratie von unten etwas entgegen zu setzen.
 
