@@ -11,9 +11,9 @@ Hello and welcome! Die folgenden Zeilen illustrieren und erklären ein Beispiel-
  1. About Arrr!
  2. Beispiel Setup
  3. Programmgestaltung
- 5. Good to know 
+ 4. Good to know
+ 5. Mitmachen als „Verstärker“ (Füllsender? Füllsenderin?)
  6. Glossar
-
 
 
 ## 1. About Arrr!
@@ -79,12 +79,12 @@ Zum Mischen eignet sich die kostenlose DJ-Software **Mixxx**. Unten ist ein Tuto
     * Mikrophone mischen auf -20 db
 
 
-## 4. Programmgestaltung
+## 3. Programmgestaltung
 
 Es bietet sich an, sich vorher Gedanken zur Programmgestaltung zu machen und zu überlegen, was das Ziel der Übertragung ist. Soll das Radio den Lauti-Wagen ersetzen oder soll es nur begleiten als Broadcast nach außen? Es ist möglich, das gesamte Programm inhaltlich spontan zu gestalten oder es komplett durchzuplanen. Davon hängt dann ab, ob Redebeiträge vorher angefragt/vorbereitet und ob Musikblocks im Voraus zusammengestellt werden müssten.
 
 
-## 5. Good to know
+## 4. Good to know
 
 ### Nützliche Tipps:
 
@@ -109,6 +109,14 @@ Teaser Video: https://www.youtube.com/watch?v=saAvu-LScOo
 
 Mixx Software Tutorial: https://manual.mixxx.org/2.3/en/chapters/introduction
 
+
+## 5. Mitmachen als „Verstärker“ (Füllsender? Füllsenderin?)
+
+Equipment für Empfänger:
+
+- Smartphone oder anderes Gerät mit mobilem Internetempfang und Audioausgang bzw. Bluetooth
+- Lautsprecher oder Lautsprecherbox mit Audioeingang bzw. Bluetoothempfänger
+- (ggfs.) Audioverbindungskabel (Kopfhörerklinkenstecker 3,5 mm zu Cinchstecker)
 
 
 ## 6. Glossar
